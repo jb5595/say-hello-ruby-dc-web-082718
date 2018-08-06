@@ -1,3 +1,5 @@
 # Build your say_hello method here
 
-DEF
+def say_hello 
+  puts "Hello!"
+end
